@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/intellithink23/static/css/main.7d904901.css",
+    "main.js": "/intellithink23/static/js/main.88bd2000.js",
+    "static/media/video.mp4": "/intellithink23/static/media/video.519efa2ae753dc6e6450.mp4",
+    "static/media/pagebg.png": "/intellithink23/static/media/pagebg.2f7a2ac8635b17329270.png",
+    "static/media/group.png": "/intellithink23/static/media/group.2302927992ad8d0e2b6b.png",
+    "static/media/mask.svg": "/intellithink23/static/media/mask.311a56e3a5fbed7a6630ee3f6a3d3ebe.svg",
+    "index.html": "/intellithink23/index.html",
+    "static/media/linkedin.svg": "/intellithink23/static/media/linkedin.7b07b52bf19db1c2e402aa2ffaca1f11.svg",
+    "static/media/spiral.svg": "/intellithink23/static/media/spiral.8ff94fe3b329656b993722e9d7c69c81.svg",
+    "static/media/youtube.svg": "/intellithink23/static/media/youtube.939d346f62fdb814efe2ac29b90869b6.svg",
+    "static/media/fb.svg": "/intellithink23/static/media/fb.051ff702d0f23fdc5a818e5724aa4f5a.svg",
+    "main.7d904901.css.map": "/intellithink23/static/css/main.7d904901.css.map",
+    "main.88bd2000.js.map": "/intellithink23/static/js/main.88bd2000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d904901.css",
+    "static/js/main.88bd2000.js"
+  ]
+}
