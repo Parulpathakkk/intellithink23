@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#caras {
+  position: relative;
+  background-color: #ffff;
+  width: 100vw;
+}
+#cara {
+  background-color: #ffff;
+  height: 100px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(238, 236, 232);
+  margin-top: 250px;
+  border-radius: 6px;
+  text-align: center;
+}
+#cara > img {
+  margin: 0 30px;
+  opacity: 1;
+  mix-blend-mode: luminosity;
+}
+.symm {
+  background-color: wheat;
+  position: relative;
+  height: 100px;
+}
